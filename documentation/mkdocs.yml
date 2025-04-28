@@ -1,0 +1,61 @@
+site_name: Docs & Resources
+theme:
+  name: material
+  icon:
+    logo: material/archive
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+      primary: black
+      accent: pink
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
+      primary: white
+      accent: red
+nav:
+  - Home: index.md
+  - Timeline: script.md
+
+copyright: Copyright &copy; 2025 Mateus Loubach
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+      name: squidfunk on Fosstodon
+  generator: false
+  version:
+    provider: mike
+    default: latest
+    alias: true
+
+extra_css:
+  - stylesheets/extra.css
+
+  # Code For Allowing Icons
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
