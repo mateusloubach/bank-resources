@@ -1,5 +1,6 @@
+<br/>
 <div align='center'>
-    <img src="./assets/images/nlw/nextlevelweek.svg">    
+    <img src="./assets/images/icon.png">    
 </div>
 
 > [!IMPORTANT]

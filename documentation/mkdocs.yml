@@ -1,6 +1,7 @@
 site_name: Docs & Resources
 theme:
   name: material
+  favicon: favicon.png
   icon:
     logo: material/archive
   palette:
