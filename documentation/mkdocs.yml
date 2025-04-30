@@ -1,7 +1,7 @@
 site_name: Docs & Resources
 theme:
   name: material
-  favicon: favicon.png
+  favicon: icon.png
   icon:
     logo: material/archive
   palette:
@@ -27,9 +27,12 @@ nav:
 copyright: Copyright &copy; 2025 Mateus Loubach
 extra:
   social:
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
-      name: squidfunk on Fosstodon
+    - icon: fontawesome/brands/github
+      link: https://github.com/mateusloubach
+
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/mateusloubach/
+
   generator: false
   version:
     provider: mike
