@@ -84,6 +84,7 @@ jobs:
       - name: Inject SHA into docs
         run: |
             sed -i "s/BUILD_SHA_HERE/${SHA}/g" docs/index.md
+            sed -i "s/BUILD_SHA_HERE/${SHA}/g" docs/resources.md
 
       # ————— (7) First‑time deploy: initialize gh‑pages —————
       - name: init commit - Deploy MkDocs

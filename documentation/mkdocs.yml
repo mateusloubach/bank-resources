@@ -23,6 +23,10 @@ theme:
 nav:
   - Home: index.md
   - Timeline: script.md
+  - Resources: resources.md
+  - Courses: courses.md
+plugins:
+  - glightbox
 
 copyright: Copyright &copy; 2025 Mateus Loubach
 extra:
@@ -46,6 +50,7 @@ extra_css:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.blocks.caption
   - toc:
       permalink: true
   - pymdownx.highlight:
@@ -58,8 +63,9 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
+        - pymdownx.tabbed:
+          alternate_style: true
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
