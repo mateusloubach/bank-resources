@@ -52,7 +52,7 @@ jobs:
         with:
           python-version: 3.11
       - name: Install MkDocs‑Material & Mike
-        run: pip install mkdocs-material mike
+        run: pip install mkdocs-material mkdocs-glightbox mike
 
       # ————— (3) Generate a weekly cache key —————
       - name: Generate Weekly Cache ID
