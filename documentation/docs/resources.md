@@ -46,3 +46,5 @@ Each resource is documented below with the context of its use, origin, and purpo
 ---
 
 _Last updated: {{BUILD_SHA_HERE}}_
+
+.
