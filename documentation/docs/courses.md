@@ -11,7 +11,7 @@ Each resource is documented below with the context of its use, origin, and purpo
 === "NLW #1"
 
     <br/>
-    ![Image title](https://raw.githubusercontent.com/mateusloubach/bank-resources/refs/heads/main/assets/images/nlw/nextlevelweek1.png){ width="200" }
+    ![Image title](https://raw.githubusercontent.com/mateusloubach/ecoleta-app/refs/heads/main/.github/logo.png){ width="413" }
     
     ## — Ecoleta
     - **Path:** [`github.com/mateusloubach/ecoleta-app`](https://github.com/mateusloubach/ecoleta-app)
@@ -29,7 +29,7 @@ Each resource is documented below with the context of its use, origin, and purpo
 === "NLW #2"
     
     <br/>
-    ![Image title](https://raw.githubusercontent.com/mateusloubach/proffy-app/refs/heads/main/.github/logo.png){ width="200" }
+    ![Image title](https://raw.githubusercontent.com/mateusloubach/proffy-app/refs/heads/main/.github/logo.png){ width="342" }
     
     ## — Proffy
     - **Path:** [`github.com/mateusloubach/proffy-app`](https://github.com/mateusloubach/proffy-app)
@@ -45,7 +45,7 @@ Each resource is documented below with the context of its use, origin, and purpo
 === "NLW #3"
     
     <br/>
-    ![Image title](https://raw.githubusercontent.com/mateusloubach/happy/refs/heads/main/public/images/logo.png){ width="200" }
+    ![Image title](https://raw.githubusercontent.com/mateusloubach/happy/4b6d0f0909f81fa3867a56df16734ed69b8e7b53/public/images/nextlevelweek3.svg){ width="325" }
     
     ## — Ecoleta
     - **Path:** [`github.com/mateusloubach/happy`](https://github.com/mateusloubach/happy)
