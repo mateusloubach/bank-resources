@@ -25,6 +25,8 @@ nav:
   - Timeline: script.md
   - Resources: resources.md
   - Courses: courses.md
+  - Template: template.md
+  - Projects: projects.md
 plugins:
   - glightbox
 
@@ -59,6 +61,7 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
