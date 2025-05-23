@@ -2,7 +2,7 @@
 
 Each resource is documented below with the context of its use, origin, and purpose.
 
-- **URL:** 
+- **URL:** [Rocketseat](./projects.md)
 - **Status:** Archived mirror maintained for reference.
 - **Snapshot Available On:** 
 

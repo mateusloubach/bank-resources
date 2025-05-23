@@ -26,7 +26,7 @@ nav:
   - Resources: resources.md
   - Courses: courses.md
   - Template: template.md
-  - Projects: projects.md
+  
 plugins:
   - glightbox
 
