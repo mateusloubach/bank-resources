@@ -37,6 +37,7 @@ Next Level Week #7 Heat
  - Stacks: Expanse, Impulse, Origin
  - Projeto:
 
+--------
 Next Level Week #8
 Next Level Week #9
 Next Level Week #10
@@ -50,3 +51,27 @@ Next Level Week #17
 Next Level Week #18
 Next Level Week #19
 Next Level Week #20
+
+
+
+--------
+*NLW#20 Agents: 07 - 10 Julho 2025
+NLW#19 Connect: 17 - 20 Fevereiro 2025
+NLW#18 Pocket Mobile: 
+NLW#17 Pocket: 
+*NLW#16 Journey: 08 - 14 Agosto 2025
+*NLW#15 Unite:
+*NLW#14 Expert:
+NLW#13 IA:
+NLW#12 Spacetime:
+NLW#11 Setup:
+NLW#10 Copa:
+NLW#09 eSports: 11 - 18 Setembro 2022
+NLW#08 Return: 02 - 06 Maio 2022
+NLW#07 Heat:
+NLW#06:
+NLW#05:
+NLW#04:
+NLW#03:
+NLW#02:
+NLW#01:
