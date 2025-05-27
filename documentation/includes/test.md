@@ -43,6 +43,17 @@ Next Level Week **#7**: Heat
 - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`**
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
+Next Level Week **#8**: Return
+
+- **Data:**: **`01 — 08 Maio 2022`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
+Next Level Week **#9**: eSports
+
+- **Data:**: **`11 — 18 Setembro 2022`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
 --------
 Next Level Week #8
