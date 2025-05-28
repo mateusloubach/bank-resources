@@ -55,10 +55,14 @@ Next Level Week **#9**: eSports
 <!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
+Next Level Week **#10**: Copa
+
+- **Data:**: **`11 — 18 Setembro 2022`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
 --------
-Next Level Week #8
-Next Level Week #9
-Next Level Week #10
+
 Next Level Week #11
 Next Level Week #12
 Next Level Week #13
@@ -75,15 +79,15 @@ Next Level Week #20
 --------
 *NLW#20 Agents: 07 - 10 Julho 2025
 NLW#19 Connect: 17 - 20 Fevereiro 2025
-NLW#18 Pocket Mobile: 
-NLW#17 Pocket: 
-*NLW#16 Journey: 08 - 11 Julho 2025
-*NLW#15 Unite:
-*NLW#14 Expert:
-NLW#13 IA:
-NLW#12 Spacetime:
-NLW#11 Setup:
-NLW#10 Copa:
+NLW#18 Mobile: 09 - 12 Dezembro 2024
+NLW#17 Pocket: 09 - 12 Setembro 2024
+*NLW#16 Journey: 08 - 11 Julho 2024
+*NLW#15 Unite: 01 - 07 Abril 2024
+*NLW#14 Expert: 05 - 07 Fevereiro 2024
+NLW#13 IA: 11 - 14? Setembro 2023
+NLW#12 Spacetime: 15-19 Maio 2023
+NLW#11 Setup: 16 - 20 Janeiro 2023
+NLW#10 Copa: 31 Outubro - 04 Novembro 2022
 NLW#09 eSports: 11 - 18 Setembro 2022
 NLW#08 Return: 01 - 08 Maio 2022
 NLW#07 Heat: 18 - 24 Outubro
