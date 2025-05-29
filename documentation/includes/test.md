@@ -77,26 +77,26 @@ Next Level Week #20
 
 
 --------
-*NLW#20 Agents: 07 - 10 Julho 2025
-NLW#19 Connect: 17 - 20 Fevereiro 2025
-NLW#18 Mobile: 09 - 12 Dezembro 2024
-NLW#17 Pocket: 09 - 12 Setembro 2024
-*NLW#16 Journey: 08 - 11 Julho 2024
-*NLW#15 Unite: 01 - 07 Abril 2024
-*NLW#14 Expert: 05 - 07 Fevereiro 2024
-NLW#13 IA: 11 - 14? Setembro 2023
-NLW#12 Spacetime: 15-19 Maio 2023
-NLW#11 Setup: 16 - 20 Janeiro 2023
-NLW#10 Copa: 31 Outubro - 04 Novembro 2022
-NLW#09 eSports: 11 - 18 Setembro 2022
-NLW#08 Return: 01 - 08 Maio 2022
-NLW#07 Heat: 18 - 24 Outubro
-NLW#06 Together: 20 - 27 Junho 2021
-NLW#05: 19-25 Abril 2021
-NLW#04: 22 - 28 Fevereiro 2021
-NLW#03: 12 — 16 Outubro 2020
-NLW#02: 03 — 09 Agosto 2020
-NLW#01: 01 — 07 Junho 2020
+*NLW #20:  gents:         07 - 10 Julho     2025
+ NLW #19:  Connect:       17 - 20 Fevereiro 2025
+ NLW #18:  Mobile:        09 - 12 Dezembro  2024
+ NLW #17:  Pocket:        09 - 12 Setembro  2024
+*NLW #16:  Journey:       08 - 11 Julho     2024
+*NLW #15:  Unite:         01 - 07 Abril     2024
+*NLW #14:  Expert:        05 - 07 Fevereiro 2024
+ NLW #13:  IA:            11 - 14? Setembro 2023
+ NLW #12:  Spacetime:     15 - 19 Maio      2023
+ NLW #11:  Setup:         16 - 20 Janeiro   2023
+ NLW #10:  Copa:          31 Out - 04 Nov   2022
+ NLW #09:  eSports:       11 - 18 Setembro  2022
+ NLW #08:  Return:        01 - 08 Maio      2022
+ NLW #07:  Heat:          18 - 24 Outubro   2021
+ NLW #06:  Together:      20 - 27 Junho     2021
+ NLW #05:                 19 - 25 Abril     2021
+ NLW #04:                 22 - 28 Fevereiro 2021
+ NLW #03:                 12 — 16 Outubro   2020
+ NLW #02:                 03 — 09 Agosto    2020
+ NLW #01:                 01 — 07 Junho     2020
 
 
 nlw6 https://github.com/felipecastrosales/payflow
