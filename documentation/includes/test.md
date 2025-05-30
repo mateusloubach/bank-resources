@@ -61,22 +61,14 @@ Next Level Week **#10**: Copa
 <!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
---------
+Next Level Week **#11**: Setup
 
-Next Level Week #11
-Next Level Week #12
-Next Level Week #13
-Next Level Week #14
-Next Level Week #15
-Next Level Week #16
-Next Level Week #17
-Next Level Week #18
-Next Level Week #19
-Next Level Week #20
-
-
+- **Data:**: **`16 — 20 Janeiro 2023`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
 --------
+
 *NLW #20:  gents:         07 - 10 Julho     2025
  NLW #19:  Connect:       17 - 20 Fevereiro 2025
  NLW #18:  Mobile:        09 - 12 Dezembro  2024
