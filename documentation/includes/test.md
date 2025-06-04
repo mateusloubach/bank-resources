@@ -79,6 +79,18 @@ Next Level Week **#13**: IA
 <!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
+Next Level Week **#14**: Expert
+
+- **Data:**: **`05 — 07 Fevereiro 2024`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
+Next Level Week **#15**: Unite
+
+- **Data:**: **`01 — 07 Abril 2024`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
 
 --------
 
