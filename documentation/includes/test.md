@@ -91,6 +91,12 @@ Next Level Week **#15**: Unite
 <!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
+Next Level Week **#16**: Journey
+
+- **Data:**: **`08 — 11 Julho 2024`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
 
 --------
 
