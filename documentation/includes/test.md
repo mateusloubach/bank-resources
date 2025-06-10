@@ -109,6 +109,12 @@ Next Level Week **#18**: Mobile
 <!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
+Next Level Week **#19**: Connect
+
+- **Data:**: **`17 — 20 Fevereiro 2025`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
 
 --------
 
