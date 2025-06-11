@@ -115,10 +115,16 @@ Next Level Week **#19**: Connect
 <!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
 <!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
 
+Next Level Week **#20**: Agents
+
+- **Data:**: **`07 — 20 Julho 2025`**
+<!-- - **Stacks:**: **`Expanse`**, **`Impulse`**, **`Origin`** -->
+<!-- - **Projeto**: [__**`Ecoleta`**__](./projects.md) -->
+
 
 --------
 
-*NLW #20:  gents:         07 - 10 Julho     2025
+*NLW #20:  Agents:         07 - 10 Julho     2025
  NLW #19:  Connect:       17 - 20 Fevereiro 2025
  NLW #18:  Mobile:        09 - 12 Dezembro  2024
  NLW #17:  Pocket:        09 - 12 Setembro  2024
