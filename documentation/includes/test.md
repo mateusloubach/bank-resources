@@ -124,7 +124,7 @@ Next Level Week **#20**: Agents
 
 --------
 
-*NLW #20:  Agents:         07 - 10 Julho     2025
+*NLW #20:  Agents:        07 - 10 Julho     2025
  NLW #19:  Connect:       17 - 20 Fevereiro 2025
  NLW #18:  Mobile:        09 - 12 Dezembro  2024
  NLW #17:  Pocket:        09 - 12 Setembro  2024
