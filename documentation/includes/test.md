@@ -145,6 +145,8 @@ Next Level Week **#20**: Agents
  NLW #02:                 03 — 09 Agosto    2020
  NLW #01:                 01 — 07 Junho     2020
 
+" * " = w/ Certificates
+
 
 nlw6 https://github.com/felipecastrosales/payflow
 nlw7 https://github.com/mellyssamnds/badge-dowhile
